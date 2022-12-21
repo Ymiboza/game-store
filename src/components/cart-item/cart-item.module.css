@@ -1,0 +1,17 @@
+.cart__item {
+    width: 100%;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cart__item_price {
+    display: flex;
+    align-items: center;
+}
+
+.cart__item_delete_icon {
+    margin-left: 5px;
+    cursor: pointer;
+}

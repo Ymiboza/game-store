@@ -1,0 +1,20 @@
+.order__item {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.order__item_cover {
+  width: 200px;
+  margin-right: 30px;
+}
+
+.order__item_title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.order__item_price {
+  font-size: 24px;
+  font-weight: bold;
+  margin-left: auto;
+}
